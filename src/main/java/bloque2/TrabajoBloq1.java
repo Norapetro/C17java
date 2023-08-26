@@ -1,4 +1,4 @@
-package B2;
+package bloque2;
 //Tres numeros por consola y encontrar el numero mayor.
 import java.util.Scanner;
 

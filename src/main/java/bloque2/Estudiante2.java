@@ -1,7 +1,7 @@
-package B2;
+package bloque2;
 //Objeto tipo Estudiante "atributos constructores Getter and setter".
 public class Estudiante2 {
-   private String nombre;
+   private String nombre ;
    private String ciudad;
    private String carrera;
 

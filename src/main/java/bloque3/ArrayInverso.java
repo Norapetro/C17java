@@ -1,4 +1,4 @@
-package B3;
+package bloque3;
 
 public class ArrayInverso {
     public static void main(String[] args) {
